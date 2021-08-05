@@ -1,0 +1,5 @@
+User-agent: *
+Allow: 
+
+Sitemap: https://minecraft-mods.herokuapp.com/host-https-www.mtmods.com/sitemap.xml
+Sitemap: https://minecraft-mods.herokuapp.com/sitemap.xml
